@@ -1,0 +1,20 @@
+.red{
+    background: red;
+}
+
+.header{
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: coral;
+}
+
+.blue{
+    background: blue;
+}
+
+.green{
+    background: green;
+}
